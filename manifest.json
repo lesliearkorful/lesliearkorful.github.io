@@ -1,0 +1,23 @@
+{
+    "name": "Leslie Arkorful",
+    "short_name": "lesliearkorful",
+    "start_url": ".",
+    "display": "minimal-ui",
+    "background_color": "#2b64f1",
+    "theme_color": "#2b64f1",
+    "description": "Leslie Arkorful's HomePage.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/les.jpg",
+            "sizes": "192x192",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "icons/les.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg"
+        }
+    ]
+}
