@@ -1,11 +1,11 @@
 {
     "name": "Leslie Arkorful",
-    "short_name": "lesliearkorful",
+    "short_name": "les.",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#2b64f1",
     "theme_color": "#2b64f1",
-    "description": "Leslie Arkorful's HomePage.",
+    "description": "Leslie Arkorful's Homepage.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
