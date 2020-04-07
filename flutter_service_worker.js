@@ -2,7 +2,7 @@
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "index.html": "039bac155ee027c706ac0a4d17e34ae6",
-"main.dart.js": "67bbaa815d2f2813036cc4ead74d5684",
+"main.dart.js": "3deca895adc1cb7c6bbd4af6bf39fade",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "les.jpg": "ba12e9faf4667f93af24a30f0e154da8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -17,6 +17,8 @@ const RESOURCES = {
 "assets/images/screenshots/social-notifications.png": "345aa940d011305332cb2b635fa1d089",
 "assets/images/screenshots/blog.png": "07cd9b4a7cf857d947237a92a8fea529",
 "assets/images/screenshots/aura.png": "a644218c1f02d165636e5ca5318b18e0",
+"assets/images/screenshots/x9cinema-detail.png": "3fa4e9247333ac93ad8cd1b7ae2d7687",
+"assets/images/screenshots/x9cinema-home.png": "c22ae53b3bfabcdf82a2c384e6ff4123",
 "assets/images/screenshots/uber-estimation.png": "facd3adce8a37dbc765f3e6048f62e3d",
 "assets/images/les.png": "260f3560e4bf8da3646c05d0e84affd9",
 "assets/images/home_bg.jpg": "ca2fdaaf3e6b078864760310f69ee58f",
@@ -30,7 +32,7 @@ const RESOURCES = {
 "assets/images/icons/twitter.png": "8f35a40403a84631c4125c4f1859c7a6",
 "assets/images/icons/linkedin.png": "3f25fde0440cd316a514d72011d95d5f",
 "assets/images/les_blue.png": "e4b560bcb816e43b9dc76b55c30d660e",
-"assets/AssetManifest.json": "476045ca48c7d1033815017d1181d4a4",
+"assets/AssetManifest.json": "9f82efb259a0c6f4842a2075aa9c4c87",
 "assets/FontManifest.json": "809bb1b5913fbbe805c23b1c432c190d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "4b9123f59422885f8f42d2d613f0bca3",
 "assets/fonts/Nunito_Sans/NunitoSans-ExtraBold.ttf": "505a059580cfbeaccdcb7a489bb67ec9",
