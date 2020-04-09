@@ -44241,7 +44241,7 @@ $S:0}
 M.uV.prototype={
 fw:function(a,b,c,d){var t=null,s=U.aA("images/icons/github.png",t,t,40,t,t),r=U.aA("images/icons/github-white.png",t,t,40,t,t),q=R.db(a,C.kU,C.a0.h(0,200)),p=new R.kc(s,r,t),o=b==null,n=o?new T.aG(t,t,t,t):b,m=L.b4(d,A.aO(t,t,R.db(a,C.m6,C.a3),t,t,t,t,t,t,t,t,t,t,C.aA,t,t,!0,t,t,t,t,t,t),t),l=L.b4(c,t,t)
 o=o?p:t
-return M.aX(C.kF,T.io(H.b([n,new T.cZ(1,C.ar,Q.WW(new V.Y(20,0,0,0),o,t,l,m,t),t)],u.E),C.S,C.a6,C.j5),q,t,t,t,t,t,new V.Y(20,20,20,20),t,t)},
+return M.aX(C.kF,T.io(H.b([n,new T.cZ(1,C.ar,Q.WW(new V.Y(20,0,0,0),o,t,l,m,t),t)],u.E),C.S,C.a6,C.j5),q,t,t,t,t,t,new V.Y(10,10,10,10),t,t)},
 uC:function(a,b,c){return this.fw(a,null,b,c)},
 fo:function(a){var t=null
 return A.aO(t,t,R.db(a,C.ex,C.a3),t,t,t,t,t,t,t,t,t,t,C.hL,t,t,!0,t,t,t,t,t,t)},
@@ -44256,7 +44256,7 @@ o=u.B
 n=new N.cc(C.a4,18,C.a8,P.u(q,p),P.ar(q),f,f,P.u(q,o))
 n.at=new M.G4()
 r=Q.by(f,n,r,"Flutter")
-n=Q.by(f,f,f," since 2018 \nand worked on amazing ones publicly and privately.\n")
+n=Q.by(f,f,f," since 2018 and worked on amazing ones publicly and privately.\n")
 m=Q.by(f,f,f,"I am a member of the ")
 l=g.fo(a)
 k=new N.cc(C.a4,18,C.a8,P.u(q,p),P.ar(q),f,f,P.u(q,o))
@@ -44271,7 +44271,7 @@ i=Q.by(f,f,f," for websites and ")
 h=g.fo(a).nf(new P.E(4285636160))
 o=new N.cc(C.a4,18,C.a8,P.u(q,p),P.ar(q),f,f,P.u(q,o))
 o.at=new M.G7()
-return new R.wT(e,new R.eD(T.cJ(H.b([t,L.a_z(Q.by(H.b([s,r,n,m,l,k,j,i,Q.by(f,o,h,"Slim PHP Framework"),Q.by(f,f,f," for REST APIs.\n\nLiving in Accra, Ghana, and open for remote work.")],u.nO),f,f,f),A.aO(f,f,f,f,f,f,f,f,f,f,f,16,f,f,f,f,!0,f,f,f,f,f,f)),new T.aG(f,20,f,f),D.a_c(f,!1,L.b4("Send me an Email",A.aO(f,f,f,f,f,f,f,f,f,f,f,15,f,f,f,f,!0,f,f,f,f,f,f),f),C.aq,C.a3,f,f,f,f,0,f,f,f,f,0.3,f,0.2,f,f,f,f,new M.G8(),new V.Y(15,15,15,15),f,f,C.l,f,f),new T.aG(f,100,f,f),L.b4("Open Source Projects.",A.aO(f,f,f,f,f,f,f,f,f,f,f,24,f,C.aA,f,f,!0,f,f,f,f,f,f),f),new T.aG(f,20,f,f),new T.aG(f,20,f,f),D.bR(f,g.fw(a,U.aA("images/screenshots/x9cinema-home.png",f,C.c_,100,f,100),"X9CINEMA App UI Clone","X9CINEMA"),C.z,!1,f,f,f,f,f,f,f,f,f,f,f,new M.G9(),f,f,f,f,f,f),new T.aG(f,20,f,f),D.bR(f,g.fw(a,U.aA("images/screenshots/social-app.png",f,C.c_,100,f,100),"Social App UI Clone","Social App"),C.z,!1,f,f,f,f,f,f,f,f,f,f,f,new M.Ga(),f,f,f,f,f,f),new T.aG(f,20,f,f),D.bR(f,g.fw(a,U.aA("images/screenshots/blog.png",f,C.c_,100,f,100),"Blog App UI Clone","Blog"),C.z,!1,f,f,f,f,f,f,f,f,f,f,f,new M.Gb(),f,f,f,f,f,f),new T.aG(f,20,f,f),D.bR(f,g.uC(a,"Conference Tracker Management App","Conference Tracker"),C.z,!1,f,f,f,f,f,f,f,f,f,f,f,new M.Gc(),f,f,f,f,f,f)],u.E),C.b6,C.aW),f),new V.Y(50,50,50,50),f)}}
+return new R.wT(e,new R.eD(T.cJ(H.b([t,L.a_z(Q.by(H.b([s,r,n,m,l,k,j,i,Q.by(f,o,h,"Slim PHP Framework"),Q.by(f,f,f," for REST APIs.\n\nLiving in Accra, Ghana, and open for remote work.")],u.nO),f,f,f),A.aO(f,f,f,f,f,f,f,f,f,f,f,16,f,f,f,f,!0,f,f,f,f,f,f)),new T.aG(f,20,f,f),D.a_c(f,!1,L.b4("Send me an Email",A.aO(f,f,f,f,f,f,f,f,f,f,f,15,f,f,f,f,!0,f,f,f,f,f,f),f),C.aq,C.a3,f,f,f,f,0,f,f,f,f,0.3,f,0.2,f,f,f,f,new M.G8(),new V.Y(15,15,15,15),f,f,C.l,f,f),new T.aG(f,100,f,f),L.b4("Open Source Projects.",A.aO(f,f,f,f,f,f,f,f,f,f,f,24,f,C.aA,f,f,!0,f,f,f,f,f,f),f),new T.aG(f,20,f,f),new T.aG(f,20,f,f),D.bR(f,g.fw(a,U.aA("images/screenshots/x9cinema-home.png",f,C.c_,100,f,70),"X9CINEMA App UI Clone","X9CINEMA"),C.z,!1,f,f,f,f,f,f,f,f,f,f,f,new M.G9(),f,f,f,f,f,f),new T.aG(f,20,f,f),D.bR(f,g.fw(a,U.aA("images/screenshots/social-app.png",f,C.c_,100,f,70),"Social App UI Clone","Social App"),C.z,!1,f,f,f,f,f,f,f,f,f,f,f,new M.Ga(),f,f,f,f,f,f),new T.aG(f,20,f,f),D.bR(f,g.fw(a,U.aA("images/screenshots/blog.png",f,C.c_,100,f,70),"Blog App UI Clone","Blog"),C.z,!1,f,f,f,f,f,f,f,f,f,f,f,new M.Gb(),f,f,f,f,f,f),new T.aG(f,20,f,f),D.bR(f,g.uC(a,"Conference Tracker Management App","Conference Tracker"),C.z,!1,f,f,f,f,f,f,f,f,f,f,f,new M.Gc(),f,f,f,f,f,f)],u.E),C.b6,C.aW),f),new V.Y(50,50,50,50),f)}}
 M.G4.prototype={
 $0:function(){T.b5("https://flutter.dev")},
 $S:0}
